@@ -5,120 +5,100 @@ position: absolute;
 left: 0;
 top: 0;
 padding-top: 40px;
-background-color: lightblue;
-}
+background-color: lightblue;}
 
 .sidebar div {
 padding: 8px;
 font-size: 24px;
-display: block;
+display: block;}
 
-}footer.sidebar {
+.sidebar {
 height: 100%;
 width: 150px;
 position: absolute;
 left: 0;
 top: 0;
 padding-top: 40px;
-background-color: lightblue;
-}
+background-color: lightblue;}
 
 .sidebar div {
 padding: 8px;
 font-size: 24px;
-display: block;
+display: block;}
 
-}.sidebar {
+.sidebar {
 height: 100%;
 width: 150px;
 position: absolute;
 left: 0;
 top: 0;
 padding-top: 40px;
-background-color: lightblue;
-}
+background-color: lightblue;}
 
 .sidebar div {
 padding: 8px;
 font-size: 24px;
-display: block;
+display: block;}
 
-}.sidebar {
+.sidebar {
 height: 100%;
 width: 150px;
 position: absolute;
 left: 0;
 top: 0;
 padding-top: 40px;
-background-color: lightblue;
-}
+background-color: lightblue;}
 
 .sidebar div {
 padding: 8px;
 font-size: 24px;
-display: block;
-}
+display: block;}
 
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #FCF7F8;
-  
-  
-}
+  background-color: #FCF7F8;}
 
 header {
-  text-align: center;
-}
+  text-align: center;}
 
 footer {
   background-color: #343330;
-  text-align: center;
-}
+  text-align: center;}
 
 .circular--square {
     border-radius: 50%;
-	border:5px solid orange;
-}
+	border:5px solid orange;}
 
 .wrapper {
   display: flex;  
   flex-flow: row wrap;
   font-weight: bold;
-  text-align: center; 
-}
+  text-align: center; }
 
 .wrapper > * {
   padding: 10px;
-  flex: 1 100%;
-}
+  flex: 1 100%;}
 
 .header {
-  background: tomato;
-}
+  background: tomato;}
 
 .footer {
-  background: lightgreen;
-}
+  background: lightgreen;}
 
 .main {
   text-align: left;
-  background: deepskyblue;
-}
+  background: deepskyblue;}
 
 .aside-1 {
   background: gold;
-	text-align: left;
-
-}
+	text-align: left;}
 
 .aside-2 {
-  background: hotpink;
-}
+  background: hotpink;}
 
 @media all and (min-width: 600px) {
-  .aside { flex: 1 0 0; }
-}
+  .aside { flex: 1 0 0; }}
 
 @media all and (min-width: 800px) {
   .main    { flex: 3 0px; }
@@ -129,7 +109,6 @@ footer {
 }
 
 body {
-    padding: 1em;
-}
+    padding: 1em;}
 
 
